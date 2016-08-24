@@ -19,7 +19,6 @@
 		4E0196651D65CFA300AE5763 /* EssenceViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4E0196641D65CFA300AE5763 /* EssenceViewController.m */; };
 		4E0196681D65CFAF00AE5763 /* FollowViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4E0196671D65CFAF00AE5763 /* FollowViewController.m */; };
 		4E01966B1D65CFBF00AE5763 /* NewsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4E01966A1D65CFBF00AE5763 /* NewsViewController.m */; };
-		4E01966E1D65CFCB00AE5763 /* ProfileViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4E01966D1D65CFCB00AE5763 /* ProfileViewController.m */; };
 		4E0196711D65CFD900AE5763 /* PublishViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4E0196701D65CFD900AE5763 /* PublishViewController.m */; };
 		4E0197B11D66F8B200AE5763 /* AppIcon29x29.png in Resources */ = {isa = PBXBuildFile; fileRef = 4E0196D61D66F8B200AE5763 /* AppIcon29x29.png */; };
 		4E0197B21D66F8B200AE5763 /* AppIcon29x29@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4E0196D71D66F8B200AE5763 /* AppIcon29x29@2x.png */; };
@@ -280,8 +279,6 @@
 		4E0196671D65CFAF00AE5763 /* FollowViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FollowViewController.m; sourceTree = "<group>"; };
 		4E0196691D65CFBF00AE5763 /* NewsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NewsViewController.h; sourceTree = "<group>"; };
 		4E01966A1D65CFBF00AE5763 /* NewsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NewsViewController.m; sourceTree = "<group>"; };
-		4E01966C1D65CFCB00AE5763 /* ProfileViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ProfileViewController.h; sourceTree = "<group>"; };
-		4E01966D1D65CFCB00AE5763 /* ProfileViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ProfileViewController.m; sourceTree = "<group>"; };
 		4E01966F1D65CFD900AE5763 /* PublishViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PublishViewController.h; sourceTree = "<group>"; };
 		4E0196701D65CFD900AE5763 /* PublishViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PublishViewController.m; sourceTree = "<group>"; };
 		4E0196D61D66F8B200AE5763 /* AppIcon29x29.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = AppIcon29x29.png; sourceTree = "<group>"; };
@@ -736,8 +733,6 @@
 		4E0196571D65CA8C00AE5763 /* controller */ = {
 			isa = PBXGroup;
 			children = (
-				4E01966C1D65CFCB00AE5763 /* ProfileViewController.h */,
-				4E01966D1D65CFCB00AE5763 /* ProfileViewController.m */,
 			);
 			path = controller;
 			sourceTree = "<group>";
@@ -1519,7 +1514,6 @@
 			files = (
 				4E01961D1D65C82600AE5763 /* ViewController.m in Sources */,
 				4E01961A1D65C82600AE5763 /* AppDelegate.m in Sources */,
-				4E01966E1D65CFCB00AE5763 /* ProfileViewController.m in Sources */,
 				4E0196651D65CFA300AE5763 /* EssenceViewController.m in Sources */,
 				4E0198971D66FF0700AE5763 /* UIButton+Util.m in Sources */,
 				4E0196171D65C82600AE5763 /* main.m in Sources */,
