@@ -12,6 +12,12 @@
 
 //网址链接
 
+
+//获取菜单
+//http://s.budejie.com/public/list-appbar/bs0315-iphone-4.3/
+
+
+
 //1.精华
 //推荐
 //http://s.budejie.com/topic/list/jingxuan/1/bs0315-iphone-4.3/0-20.json
@@ -109,6 +115,13 @@
 //声音
 //http://s.budejie.com/topic/list/zuixin/31/bs0315-iphone-4.3/0-20.json
 //http://s.budejie.com/topic/list/zuixin/31/bs0315-iphone-4.3/1471717381-20.json
+
+
+
+//5.我的界面
+
+//http://d.api.budejie.com/op/square/bs0315-iphone-4.3/0-100.json
+
 
 
 
