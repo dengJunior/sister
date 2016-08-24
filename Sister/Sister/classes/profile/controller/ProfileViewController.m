@@ -2,7 +2,7 @@
 //  ProfileViewController.m
 //  Sister
 //
-//  Created by gaokunpeng on 16/8/18.
+//  Created by gaokunpeng on 16/8/24.
 //  Copyright © 2016年 apple. All rights reserved.
 //
 
@@ -16,7 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view.
+    // Do any additional setup after loading the view from its nib.
 }
 
 - (void)didReceiveMemoryWarning {
