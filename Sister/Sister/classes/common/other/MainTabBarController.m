@@ -24,8 +24,6 @@
     //统一设置tabbarItem的样式
     [[UITabBarItem appearance] setTitleTextAttributes:attrDict forState:UIControlStateNormal];
     [[UITabBarItem appearance] setTitleTextAttributes:selectAttrDict forState:UIControlStateSelected];
-
-    
 }
 
 
